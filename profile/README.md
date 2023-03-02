@@ -1,4 +1,4 @@
-﻿![Talent Hub GitHub Header](https://github.com/TalentHubDiscord/.github/blob/main/images/GitHub_Header.png,)
+﻿![Talent Hub GitHub Header](https://github.com/TalentHubDiscord/.github/blob/main/images/GitHub_Header.png)
 
 ## Get Involved
 
