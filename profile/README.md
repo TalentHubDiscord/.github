@@ -7,7 +7,7 @@ We are looking for contributors to help us improve the bot. If you want to contr
 Talent Hub, a place for developers, artists, musicians, all creators to come together and share their passion, and to help each other grow.
 We are designed to make it easy for you to find people to work with, and to help you grow as a creator.
 
-* [Talent Hub's Discord server](https://discord.gg/RvjSrJD5mj)
+* [Talent Hub's Discord server](https://discord.talent-hub.fr)
 
 ----
 The logo has been made by [@Korai](https://www.instagram.com/korai.do.art/), you should check out his work!
