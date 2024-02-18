@@ -10,4 +10,4 @@ We are designed to make it easy for you to find people to work with, and to help
 * [Talent Hub's Discord server](https://discord.talent-hub.fr)
 
 ----
-The logo has been made by [@Korai](https://www.instagram.com/korai.do.art/), you should check out his work!
+The logo has been made by [@opkoelo](https://www.instagram.com/opkoelo/), you should check out his work!
